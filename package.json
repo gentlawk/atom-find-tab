@@ -1,0 +1,27 @@
+{
+  "name": "find-tab",
+  "main": "./lib/find-tab",
+  "version": "0.0.0",
+  "description": "Find & Change tabs quickly",
+  "keywords": [
+    "tab"
+  ],
+  "activationCommands": {
+    "atom-workspace": "find-tab:toggle"
+  },
+  "repository": "https://github.com/gentlawk/atom-find-tab",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-select-list": "^0.7.1"
+  },
+  "consumedServices": {
+    "file-icons.element-icons": {
+      "versions": {
+        "^1.0.0": "consumeElementIcons"
+      }
+    }
+  }
+}

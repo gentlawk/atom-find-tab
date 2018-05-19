@@ -1,0 +1,8 @@
+{
+	"atom-workspace": {
+		"ctrl-x b": "find-tab:toggle"
+	},
+	".find-tab atom-text-editor": {
+		"tab": "find-tab:autocomplete"
+	}
+}
