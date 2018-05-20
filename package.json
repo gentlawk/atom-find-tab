@@ -1,7 +1,7 @@
 {
   "name": "find-tab",
   "main": "./lib/find-tab",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find & Change tabs quickly",
   "keywords": [
     "tab"
